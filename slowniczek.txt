@@ -1,0 +1,6 @@
+a:ala
+b:bela
+c:cela
+d:dola
+k:karogata
+g: hoho
